@@ -1,4 +1,4 @@
-# Last updated: December 19, 2023
+# Last updated: December 19
 
 # This Python script is for processing EAD XML files to produce box and folder labels. It focuses on parsing, data extraction, and metadata management. 
 # It starts by identifying EAD files in a specified directory, and then sanitizes these XML files, 
