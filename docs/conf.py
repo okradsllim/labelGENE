@@ -3,20 +3,20 @@
 import os
 import sys
 
-# Project root directory as the parent of 'docs'
+# Set the project root directory as the parent of 'docs'
 project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
-# Adding the project root directory to sys.path
+# Add the project root directory to sys.path
 sys.path.insert(0, project_root)
 
-# Sphinx extension module names here, as strings.
+# Add any Sphinx extension module names here, as strings.
 extensions = [
     'sphinx.ext.autodoc',
-    'sphinx.ext.napoleon',  # Napoleon extension for Google-style docstrings
+    'sphinx.ext.napoleon',  # Add napoleon extension for Google-style docstrings
 ]
 
 # Set autodoc options
-autodoc_mock_imports = ['win32com']
+autodoc_mock_imports = ['win32com']  # Mock any external dependencies if needed
 autodoc_default_options = {
     'members': True,
     'undoc-members': True,
