@@ -1,0 +1,2395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <record>
+    <leader>00000npcaa2200000 u 4500</leader>
+    <controlfield tag="005">20220531192825.0</controlfield>
+    <controlfield tag="008">230906i19432018xxu                 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="a">7840525</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="035">
+      <subfield code="9">beinecke.dipalma</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">CtY-BR</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">CtY-BR</subfield>
+      <subfield code="e">dacs</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="041">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="044">
+      <subfield code="a">xxu</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="099">
+      <subfield code="a">YCAL MSS 776</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">DiPalma, Ray.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Ray DiPalma papers,</subfield>
+      <subfield code="f">circa 1943-2018</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">73</subfield>
+      <subfield code="f">Linear Feet ((105 boxes) + 1 record album storage, 7 broadsides)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="351">
+      <subfield code="a">Organized into three groupings: June 2005 Acquisition, July 2006 Acquisition, and May 2018 Acquisition.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Processing Information: This collection received a basic level of processing, including rehousing and in some instances minimal organization. Various acquisitions associated with the collection have not been merged and organized as a whole. Each acquisition is described separately in the contents list below according to month and year of acquisition. 
+
+The finding aid for this collection is compiled from individual preliminary lists for each acquisition that were created at or around the time of receipt by the library. The preliminary lists were migrated to comply with current archival descriptive standards and merged into a single file in 2007-2008. As part of the migration, modifications were made to the formatting of individual lists; however, the content of the lists was neither modified nor verified.
+
+As a rule, descriptive information found in the Collection Contents section is drawn in large part from information supplied with the collection and from an initial survey of the contents. Folder titles appearing in the contents list below are often based on those provided by the creator or previous custodian. Titles have not been verified against the contents of the folders in all cases. Otherwise, folder titles are supplied by staff during initial processing.
+
+Former call numbers: Uncat MSS 796 and Uncat MSS 925. 
+
+This finding aid may be updated periodically to account for new acquisitions to the collection and/or revisions in arrangement and description.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="506">
+      <subfield code="a">The materials are open for research.
+
+Box 39-40, 111 (audiovisual material): Restricted fragile material. Reference copies may be requested. Consult Access Services for further information.
+
+Box 51, 110 (computer disks): Restricted Fragile Material. Reference copies of electronic files may be requested. Consult Access Services for further information.</subfield>
+    </datafield>
+    <datafield ind1="3" ind2=" " tag="520">
+      <subfield code="a">Collections consists of correspondence, writings, printed material, artwork, photographs, audiovisual material, computer media, and personal papers by and relating to American poet and visual artist Ray DiPalma.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="520">
+      <subfield code="a">The collection consists of correspondence, writings, printed material, artwork, photographs, audiovisual material, computer media, and personal papers by and relating to American poet and visual artist Ray DiPalma. It includes a large amount of correspondence with Vincent Dussol, DiPalma's French translator, and American poets Merrill Gilfillan, Ken McCullough, Ron Silliman, and Paul Vangelisti, as well as Mail Art. Other correspondents include authors and visual artists chiefly of DiPalma's generation, such as Bruce Andrews, Charles Bernstein, Guy Davenport, Lyn Hejinian, Peter Klappert, Michael Lally, and Tom Raworth. DiPalma's literary and artistic output includes drafts, proofs, and printed versions of written work and representations of graphic work dating from the mid 1960s. Supplementing this professional output are printed materials, including clippings and publicity, and sound recordings of readings. Also found in the collection are various personal papers, including diaries, notebooks, journals, and calendars.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="524">
+      <subfield code="a">Ray DiPalma Papers. Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="540">
+      <subfield code="a">The Ray DiPalma Papers is the physical property of the Beinecke Rare Book and Manuscript Library, Yale University. Literary rights, including copyright, belong to the authors or their legal heirs and assigns. For further information, consult the appropriate curator.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="541">
+      <subfield code="a">Purchased from Granary Books, Inc. on the Ezra Pound Archive Fund, 2005. 
+
+July 2006 acquisition: purchased from Ray DiPalma on the George B. Alvord Fund, 2006.
+
+May 2018 acquisition: purchased from Granary Books, Inc. on the Edwin J. Beinecke Book Fund, 2018.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="545">
+      <subfield code="a">Ray DiPalma, American poet and visual artist, was born in New Kensington, Pennsylvania and educated at Duquesne University (1966) and the University of Iowa (1968). DiPalma has published over 30 books of poetry, translations, and graphic work, including  House of Keys  (2010),  The Ancient Use of Stone: Journals and Daybooks 1998-2008  (2009),  Pensieri  (2009), and  Further Apocrypha  (2009). Earlier collections include  Numbers and Tempers: Selected Early Poems, 1966-1986  (1993),  Le Tombeau de Reverdy  (1997),  Provocations  (1994),  Hôtel des Ruines  (1993), and  Planh  (1979). His visual work has been collected by galleries and museums, including the J. Paul Getty Museum, the Museum of Modern Art (MoMA), and the Art Institute of Chicago. He has received awards and fellowships from the National Endowment for the Arts, the New York Foundation for the Arts, and the Fund for Poetry. DiPalma lives in New York City and teaches at the School of Visual Arts. 
+
+Biographical information taken from The Poetry Foundation website at &amp;lt;http://www.poetryfoundation.org/bio/ray-dipalma&amp;gt;.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="555">
+      <subfield code="a">https://preservica.library.yale.edu/explorer/explorer.html#prop:4&amp;010a48e2-87d3-444e-932d-f61a1c8f495c</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="600">
+      <subfield code="a">Andrews, Bruce,</subfield>
+      <subfield code="d">1948-.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="600">
+      <subfield code="a">Bernstein, Charles,</subfield>
+      <subfield code="d">1950-.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="600">
+      <subfield code="a">Davenport, Guy,</subfield>
+      <subfield code="d">1927-2005.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="600">
+      <subfield code="a">DiPalma, Ray.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="600">
+      <subfield code="a">Dussol, Vincent.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="600">
+      <subfield code="a">Gilfillan, Merrill,</subfield>
+      <subfield code="d">1945-.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="600">
+      <subfield code="a">Hejinian, Lyn.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="600">
+      <subfield code="a">Klappert, Peter,</subfield>
+      <subfield code="d">1942-.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="600">
+      <subfield code="a">Lally, Michael,</subfield>
+      <subfield code="d">1942-.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="600">
+      <subfield code="a">McCullough, Ken,</subfield>
+      <subfield code="d">1943-.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="600">
+      <subfield code="a">Raworth, Tom,</subfield>
+      <subfield code="d">1938-.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="600">
+      <subfield code="a">Silliman, Ronald,</subfield>
+      <subfield code="d">1946-.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="600">
+      <subfield code="a">Vangelisti, Paul,</subfield>
+      <subfield code="d">1945-.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">American literature</subfield>
+      <subfield code="y">20th Century</subfield>
+      <subfield code="0">http://id.loc.gov/authorities/subjects/sh85004341</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Artists, American</subfield>
+      <subfield code="y">20th Century</subfield>
+      <subfield code="v">Archives</subfield>
+      <subfield code="2">local_beinecke</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Mail art</subfield>
+      <subfield code="0">http://id.loc.gov/authorities/subjects/sh85079877</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Poets, American</subfield>
+      <subfield code="y">20th Century</subfield>
+      <subfield code="v">Archives</subfield>
+      <subfield code="2">local</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Artists</subfield>
+      <subfield code="z">United States</subfield>
+      <subfield code="y">20th Century</subfield>
+      <subfield code="2">local</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Artists</subfield>
+      <subfield code="z">United States</subfield>
+      <subfield code="y">21st century</subfield>
+      <subfield code="2">local</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Audiovisual materials</subfield>
+      <subfield code="0">http://vocab.getty.edu/aat/300028045</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Born digital</subfield>
+      <subfield code="0">http://vocab.getty.edu/aat/300374824</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Collages (visual works)</subfield>
+      <subfield code="0">http://vocab.getty.edu/aat/300033963</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Electronic documents</subfield>
+      <subfield code="0">http://vocab.getty.edu/aat/300266679</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Photographic prints</subfield>
+      <subfield code="0">http://vocab.getty.edu/aat/300127104</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Photographs</subfield>
+      <subfield code="0">http://vocab.getty.edu/aat/300046300</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Rubber stamps</subfield>
+      <subfield code="0">http://vocab.getty.edu/aat/300199062</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Sound recordings</subfield>
+      <subfield code="0">http://vocab.getty.edu/aat/300028633</subfield>
+      <subfield code="2">aat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="656">
+      <subfield code="a">Poets</subfield>
+      <subfield code="z">United States</subfield>
+      <subfield code="y">20th Century</subfield>
+      <subfield code="2">local</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="656">
+      <subfield code="a">Poets</subfield>
+      <subfield code="z">United States</subfield>
+      <subfield code="y">21st century</subfield>
+      <subfield code="2">local</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="852">
+      <subfield code="a">Yale University Library</subfield>
+      <subfield code="b">Beinecke Rare Book and Manuscript Library</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="z">Finding aid online:</subfield>
+      <subfield code="u">https://hdl.handle.net/10079/fa/beinecke.dipalma</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.26</subfield>
+      <subfield code="a">26</subfield>
+      <subfield code="p">39002104566139</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566139</subfield>
+      <subfield code="w">Box 26</subfield>
+      <subfield code="e">26</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.27</subfield>
+      <subfield code="a">27</subfield>
+      <subfield code="p">39002104566147</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566147</subfield>
+      <subfield code="w">Box 27</subfield>
+      <subfield code="e">27</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.28</subfield>
+      <subfield code="a">28</subfield>
+      <subfield code="p">39002104566154</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566154</subfield>
+      <subfield code="w">Box 28</subfield>
+      <subfield code="e">28</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.29</subfield>
+      <subfield code="a">29</subfield>
+      <subfield code="p">39002104566162</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566162</subfield>
+      <subfield code="w">Box 29</subfield>
+      <subfield code="e">29</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.30</subfield>
+      <subfield code="a">30</subfield>
+      <subfield code="p">39002104566170</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566170</subfield>
+      <subfield code="w">Box 30</subfield>
+      <subfield code="e">30</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.31</subfield>
+      <subfield code="a">31</subfield>
+      <subfield code="p">39002104566188</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566188</subfield>
+      <subfield code="w">Box 31</subfield>
+      <subfield code="e">31</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.32</subfield>
+      <subfield code="a">32</subfield>
+      <subfield code="p">39002104566196</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566196</subfield>
+      <subfield code="w">Box 32</subfield>
+      <subfield code="e">32</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.33</subfield>
+      <subfield code="a">33</subfield>
+      <subfield code="p">39002104566204</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566204</subfield>
+      <subfield code="w">Box 33</subfield>
+      <subfield code="e">33</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.34</subfield>
+      <subfield code="a">34</subfield>
+      <subfield code="p">39002104566212</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566212</subfield>
+      <subfield code="w">Box 34</subfield>
+      <subfield code="e">34</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.35</subfield>
+      <subfield code="a">35</subfield>
+      <subfield code="p">39002104566220</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566220</subfield>
+      <subfield code="w">Box 35</subfield>
+      <subfield code="e">35</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.36</subfield>
+      <subfield code="a">36</subfield>
+      <subfield code="p">39002104566238</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566238</subfield>
+      <subfield code="w">Box 36</subfield>
+      <subfield code="e">36</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.37</subfield>
+      <subfield code="a">37</subfield>
+      <subfield code="p">39002104566246</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566246</subfield>
+      <subfield code="w">Box 37</subfield>
+      <subfield code="e">37</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.38</subfield>
+      <subfield code="a">38</subfield>
+      <subfield code="p">39002104566253</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566253</subfield>
+      <subfield code="w">Box 38</subfield>
+      <subfield code="e">38</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.39</subfield>
+      <subfield code="a">39</subfield>
+      <subfield code="p">39002104566261</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566261</subfield>
+      <subfield code="w">Box 39</subfield>
+      <subfield code="e">39</subfield>
+      <subfield code="x">RestrictedFragileSpecColl</subfield>
+      <subfield code="y">Y</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.40</subfield>
+      <subfield code="a">40</subfield>
+      <subfield code="p">39002104566279</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566279</subfield>
+      <subfield code="w">Box 40</subfield>
+      <subfield code="e">40</subfield>
+      <subfield code="x">RestrictedFragileSpecColl</subfield>
+      <subfield code="y">Y</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.41 (Record Album
+Storage)</subfield>
+      <subfield code="a">41 (Record Album
+Storage)</subfield>
+      <subfield code="p">39002104566287</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">Beinecke Library [On-site]</subfield>
+      <subfield code="p">39002104566287</subfield>
+      <subfield code="w">Box 41 (Record Album
+Storage)</subfield>
+      <subfield code="e">41 (Record Album
+Storage)</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.42
+(Oversize)</subfield>
+      <subfield code="a">42
+(Oversize)</subfield>
+      <subfield code="p">39002093798479</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002093798479</subfield>
+      <subfield code="w">Box 42
+(Oversize)</subfield>
+      <subfield code="e">42
+(Oversize)</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.43
+(Oversize)</subfield>
+      <subfield code="a">43
+(Oversize)</subfield>
+      <subfield code="p">39002093798487</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">Beinecke Library [On-site]</subfield>
+      <subfield code="p">39002093798487</subfield>
+      <subfield code="w">Box 43
+(Oversize)</subfield>
+      <subfield code="e">43
+(Oversize)</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.44(Broadside)</subfield>
+      <subfield code="a">44(Broadside)</subfield>
+      <subfield code="p">39002104566295</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">Beinecke Library [On-site]</subfield>
+      <subfield code="p">39002104566295</subfield>
+      <subfield code="w">Box 44(Broadside)</subfield>
+      <subfield code="e">44(Broadside)</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.45
+(Broadside)</subfield>
+      <subfield code="a">45
+(Broadside)</subfield>
+      <subfield code="p">39002104566303</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">Beinecke Library [On-site]</subfield>
+      <subfield code="p">39002104566303</subfield>
+      <subfield code="w">Box 45
+(Broadside)</subfield>
+      <subfield code="e">45
+(Broadside)</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.46
+(Broadside)</subfield>
+      <subfield code="a">46
+(Broadside)</subfield>
+      <subfield code="p">39002104566311</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">Beinecke Library [On-site]</subfield>
+      <subfield code="p">39002104566311</subfield>
+      <subfield code="w">Box 46
+(Broadside)</subfield>
+      <subfield code="e">46
+(Broadside)</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.47
+(Broadside)</subfield>
+      <subfield code="a">47
+(Broadside)</subfield>
+      <subfield code="p">39002104566329</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">Beinecke Library [On-site]</subfield>
+      <subfield code="p">39002104566329</subfield>
+      <subfield code="w">Box 47
+(Broadside)</subfield>
+      <subfield code="e">47
+(Broadside)</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.48
+(Broadside)</subfield>
+      <subfield code="a">48
+(Broadside)</subfield>
+      <subfield code="p">39002104566337</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">Beinecke Library [On-site]</subfield>
+      <subfield code="p">39002104566337</subfield>
+      <subfield code="w">Box 48
+(Broadside)</subfield>
+      <subfield code="e">48
+(Broadside)</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.49
+(Broadside)</subfield>
+      <subfield code="a">49
+(Broadside)</subfield>
+      <subfield code="p">39002104566345</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">Beinecke Library [On-site]</subfield>
+      <subfield code="p">39002104566345</subfield>
+      <subfield code="w">Box 49
+(Broadside)</subfield>
+      <subfield code="e">49
+(Broadside)</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.50
+(Broadside)</subfield>
+      <subfield code="a">50
+(Broadside)</subfield>
+      <subfield code="p">39002104566352</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">Beinecke Library [On-site]</subfield>
+      <subfield code="p">39002104566352</subfield>
+      <subfield code="w">Box 50
+(Broadside)</subfield>
+      <subfield code="e">50
+(Broadside)</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.1</subfield>
+      <subfield code="a">1</subfield>
+      <subfield code="p">39002104565883</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104565883</subfield>
+      <subfield code="w">Box 1</subfield>
+      <subfield code="e">1</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.2</subfield>
+      <subfield code="a">2</subfield>
+      <subfield code="p">39002104565891</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104565891</subfield>
+      <subfield code="w">Box 2</subfield>
+      <subfield code="e">2</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.3</subfield>
+      <subfield code="a">3</subfield>
+      <subfield code="p">39002104565909</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104565909</subfield>
+      <subfield code="w">Box 3</subfield>
+      <subfield code="e">3</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.4</subfield>
+      <subfield code="a">4</subfield>
+      <subfield code="p">39002104565917</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104565917</subfield>
+      <subfield code="w">Box 4</subfield>
+      <subfield code="e">4</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.5</subfield>
+      <subfield code="a">5</subfield>
+      <subfield code="p">39002104565925</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104565925</subfield>
+      <subfield code="w">Box 5</subfield>
+      <subfield code="e">5</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.6</subfield>
+      <subfield code="a">6</subfield>
+      <subfield code="p">39002104565933</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104565933</subfield>
+      <subfield code="w">Box 6</subfield>
+      <subfield code="e">6</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.7</subfield>
+      <subfield code="a">7</subfield>
+      <subfield code="p">39002104565941</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104565941</subfield>
+      <subfield code="w">Box 7</subfield>
+      <subfield code="e">7</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.8</subfield>
+      <subfield code="a">8</subfield>
+      <subfield code="p">39002104565958</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104565958</subfield>
+      <subfield code="w">Box 8</subfield>
+      <subfield code="e">8</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.9</subfield>
+      <subfield code="a">9</subfield>
+      <subfield code="p">39002104565966</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104565966</subfield>
+      <subfield code="w">Box 9</subfield>
+      <subfield code="e">9</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.10</subfield>
+      <subfield code="a">10</subfield>
+      <subfield code="p">39002104565974</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104565974</subfield>
+      <subfield code="w">Box 10</subfield>
+      <subfield code="e">10</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.11</subfield>
+      <subfield code="a">11</subfield>
+      <subfield code="p">39002104565982</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104565982</subfield>
+      <subfield code="w">Box 11</subfield>
+      <subfield code="e">11</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.12</subfield>
+      <subfield code="a">12</subfield>
+      <subfield code="p">39002104565990</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104565990</subfield>
+      <subfield code="w">Box 12</subfield>
+      <subfield code="e">12</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.13</subfield>
+      <subfield code="a">13</subfield>
+      <subfield code="p">39002104566006</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566006</subfield>
+      <subfield code="w">Box 13</subfield>
+      <subfield code="e">13</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.14</subfield>
+      <subfield code="a">14</subfield>
+      <subfield code="p">39002104566014</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566014</subfield>
+      <subfield code="w">Box 14</subfield>
+      <subfield code="e">14</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.15</subfield>
+      <subfield code="a">15</subfield>
+      <subfield code="p">39002104566022</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566022</subfield>
+      <subfield code="w">Box 15</subfield>
+      <subfield code="e">15</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.16</subfield>
+      <subfield code="a">16</subfield>
+      <subfield code="p">39002104566030</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566030</subfield>
+      <subfield code="w">Box 16</subfield>
+      <subfield code="e">16</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.17</subfield>
+      <subfield code="a">17</subfield>
+      <subfield code="p">39002104566048</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566048</subfield>
+      <subfield code="w">Box 17</subfield>
+      <subfield code="e">17</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.18</subfield>
+      <subfield code="a">18</subfield>
+      <subfield code="p">39002104566055</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566055</subfield>
+      <subfield code="w">Box 18</subfield>
+      <subfield code="e">18</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.19</subfield>
+      <subfield code="a">19</subfield>
+      <subfield code="p">39002104566063</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566063</subfield>
+      <subfield code="w">Box 19</subfield>
+      <subfield code="e">19</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.20</subfield>
+      <subfield code="a">20</subfield>
+      <subfield code="p">39002104566071</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566071</subfield>
+      <subfield code="w">Box 20</subfield>
+      <subfield code="e">20</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.21</subfield>
+      <subfield code="a">21</subfield>
+      <subfield code="p">39002104566089</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566089</subfield>
+      <subfield code="w">Box 21</subfield>
+      <subfield code="e">21</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.22</subfield>
+      <subfield code="a">22</subfield>
+      <subfield code="p">39002104566097</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566097</subfield>
+      <subfield code="w">Box 22</subfield>
+      <subfield code="e">22</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.23</subfield>
+      <subfield code="a">23</subfield>
+      <subfield code="p">39002104566105</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566105</subfield>
+      <subfield code="w">Box 23</subfield>
+      <subfield code="e">23</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.24</subfield>
+      <subfield code="a">24</subfield>
+      <subfield code="p">39002104566113</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566113</subfield>
+      <subfield code="w">Box 24</subfield>
+      <subfield code="e">24</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.25</subfield>
+      <subfield code="a">25</subfield>
+      <subfield code="p">39002104566121</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566121</subfield>
+      <subfield code="w">Box 25</subfield>
+      <subfield code="e">25</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.51</subfield>
+      <subfield code="a">51</subfield>
+      <subfield code="p">39002104566360</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566360</subfield>
+      <subfield code="w">Box 51</subfield>
+      <subfield code="e">51</subfield>
+      <subfield code="x">RestrictedFragileSpecColl</subfield>
+      <subfield code="y">Y</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.52</subfield>
+      <subfield code="a">52</subfield>
+      <subfield code="p">39002099448640</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002099448640</subfield>
+      <subfield code="w">Box 52</subfield>
+      <subfield code="e">52</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.53</subfield>
+      <subfield code="a">53</subfield>
+      <subfield code="p">39002104566378</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002104566378</subfield>
+      <subfield code="w">Box 53</subfield>
+      <subfield code="e">53</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.110</subfield>
+      <subfield code="a">110</subfield>
+      <subfield code="p">39002140833865</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833865</subfield>
+      <subfield code="w">Box 110</subfield>
+      <subfield code="e">110</subfield>
+      <subfield code="x">RestrictedFragileSpecColl</subfield>
+      <subfield code="y">Y</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.111</subfield>
+      <subfield code="a">111</subfield>
+      <subfield code="p">39002140833873</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833873</subfield>
+      <subfield code="w">Box 111</subfield>
+      <subfield code="e">111</subfield>
+      <subfield code="x">RestrictedFragileSpecColl</subfield>
+      <subfield code="y">Y</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.82</subfield>
+      <subfield code="a">82</subfield>
+      <subfield code="p">39002140833659</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833659</subfield>
+      <subfield code="w">Box 82</subfield>
+      <subfield code="e">82</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.54</subfield>
+      <subfield code="a">54</subfield>
+      <subfield code="p">39002140833378</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833378</subfield>
+      <subfield code="w">Box 54</subfield>
+      <subfield code="e">54</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.55</subfield>
+      <subfield code="a">55</subfield>
+      <subfield code="p">39002140833386</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833386</subfield>
+      <subfield code="w">Box 55</subfield>
+      <subfield code="e">55</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.73</subfield>
+      <subfield code="a">73</subfield>
+      <subfield code="p">39002140833568</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833568</subfield>
+      <subfield code="w">Box 73</subfield>
+      <subfield code="e">73</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.74</subfield>
+      <subfield code="a">74</subfield>
+      <subfield code="p">39002140833576</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833576</subfield>
+      <subfield code="w">Box 74</subfield>
+      <subfield code="e">74</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.75</subfield>
+      <subfield code="a">75</subfield>
+      <subfield code="p">39002140833584</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833584</subfield>
+      <subfield code="w">Box 75</subfield>
+      <subfield code="e">75</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.79</subfield>
+      <subfield code="a">79</subfield>
+      <subfield code="p">39002140833626</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833626</subfield>
+      <subfield code="w">Box 79</subfield>
+      <subfield code="e">79</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.76</subfield>
+      <subfield code="a">76</subfield>
+      <subfield code="p">39002140833592</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833592</subfield>
+      <subfield code="w">Box 76</subfield>
+      <subfield code="e">76</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.77</subfield>
+      <subfield code="a">77</subfield>
+      <subfield code="p">39002140833600</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833600</subfield>
+      <subfield code="w">Box 77</subfield>
+      <subfield code="e">77</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.78</subfield>
+      <subfield code="a">78</subfield>
+      <subfield code="p">39002140833618</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833618</subfield>
+      <subfield code="w">Box 78</subfield>
+      <subfield code="e">78</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.84 (Oversize)</subfield>
+      <subfield code="a">84 (Oversize)</subfield>
+      <subfield code="p">39002140833675</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">Beinecke Library [On-site]</subfield>
+      <subfield code="p">39002140833675</subfield>
+      <subfield code="w">Box 84 (Oversize)</subfield>
+      <subfield code="e">84 (Oversize)</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.81</subfield>
+      <subfield code="a">81</subfield>
+      <subfield code="p">39002140833642</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833642</subfield>
+      <subfield code="w">Box 81</subfield>
+      <subfield code="e">81</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.80</subfield>
+      <subfield code="a">80</subfield>
+      <subfield code="p">39002140833634</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833634</subfield>
+      <subfield code="w">Box 80</subfield>
+      <subfield code="e">80</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.83 (Oversize)</subfield>
+      <subfield code="a">83 (Oversize)</subfield>
+      <subfield code="p">39002140833667</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">Beinecke Library [On-site]</subfield>
+      <subfield code="p">39002140833667</subfield>
+      <subfield code="w">Box 83 (Oversize)</subfield>
+      <subfield code="e">83 (Oversize)</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.85</subfield>
+      <subfield code="a">85</subfield>
+      <subfield code="p">39002140833683</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833683</subfield>
+      <subfield code="w">Box 85</subfield>
+      <subfield code="e">85</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.86</subfield>
+      <subfield code="a">86</subfield>
+      <subfield code="p">39002140833691</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833691</subfield>
+      <subfield code="w">Box 86</subfield>
+      <subfield code="e">86</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.94</subfield>
+      <subfield code="a">94</subfield>
+      <subfield code="p">39002140833766</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833766</subfield>
+      <subfield code="w">Box 94</subfield>
+      <subfield code="e">94</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.95</subfield>
+      <subfield code="a">95</subfield>
+      <subfield code="p">39002140833774</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833774</subfield>
+      <subfield code="w">Box 95</subfield>
+      <subfield code="e">95</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.96</subfield>
+      <subfield code="a">96</subfield>
+      <subfield code="p">39002140833782</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833782</subfield>
+      <subfield code="w">Box 96</subfield>
+      <subfield code="e">96</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.97</subfield>
+      <subfield code="a">97</subfield>
+      <subfield code="p">39002140833790</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833790</subfield>
+      <subfield code="w">Box 97</subfield>
+      <subfield code="e">97</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.98</subfield>
+      <subfield code="a">98</subfield>
+      <subfield code="p">39002140833808</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833808</subfield>
+      <subfield code="w">Box 98</subfield>
+      <subfield code="e">98</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.99</subfield>
+      <subfield code="a">99</subfield>
+      <subfield code="p">39002140833816</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833816</subfield>
+      <subfield code="w">Box 99</subfield>
+      <subfield code="e">99</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.100</subfield>
+      <subfield code="a">100</subfield>
+      <subfield code="p">39002140833824</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833824</subfield>
+      <subfield code="w">Box 100</subfield>
+      <subfield code="e">100</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.101</subfield>
+      <subfield code="a">101</subfield>
+      <subfield code="p">39002140833832</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833832</subfield>
+      <subfield code="w">Box 101</subfield>
+      <subfield code="e">101</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.102</subfield>
+      <subfield code="a">102</subfield>
+      <subfield code="p">39002140833840</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833840</subfield>
+      <subfield code="w">Box 102</subfield>
+      <subfield code="e">102</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.103</subfield>
+      <subfield code="a">103</subfield>
+      <subfield code="p">39002140833857</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833857</subfield>
+      <subfield code="w">Box 103</subfield>
+      <subfield code="e">103</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.104</subfield>
+      <subfield code="a">104</subfield>
+      <subfield code="p">39002140833899</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833899</subfield>
+      <subfield code="w">Box 104</subfield>
+      <subfield code="e">104</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.105</subfield>
+      <subfield code="a">105</subfield>
+      <subfield code="p">39002140833907</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833907</subfield>
+      <subfield code="w">Box 105</subfield>
+      <subfield code="e">105</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.106</subfield>
+      <subfield code="a">106</subfield>
+      <subfield code="p">39002140833915</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833915</subfield>
+      <subfield code="w">Box 106</subfield>
+      <subfield code="e">106</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.107</subfield>
+      <subfield code="a">107</subfield>
+      <subfield code="p">39002140833923</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833923</subfield>
+      <subfield code="w">Box 107</subfield>
+      <subfield code="e">107</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.108</subfield>
+      <subfield code="a">108</subfield>
+      <subfield code="p">39002140833931</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833931</subfield>
+      <subfield code="w">Box 108</subfield>
+      <subfield code="e">108</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.109</subfield>
+      <subfield code="a">109</subfield>
+      <subfield code="p">39002140983488</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140983488</subfield>
+      <subfield code="w">Box 109</subfield>
+      <subfield code="e">109</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.87</subfield>
+      <subfield code="a">87</subfield>
+      <subfield code="p">39002140833709</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833709</subfield>
+      <subfield code="w">Box 87</subfield>
+      <subfield code="e">87</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.88</subfield>
+      <subfield code="a">88</subfield>
+      <subfield code="p">39002140833881</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833881</subfield>
+      <subfield code="w">Box 88</subfield>
+      <subfield code="e">88</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.93</subfield>
+      <subfield code="a">93</subfield>
+      <subfield code="p">39002140833758</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833758</subfield>
+      <subfield code="w">Box 93</subfield>
+      <subfield code="e">93</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.89</subfield>
+      <subfield code="a">89</subfield>
+      <subfield code="p">39002140833717</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833717</subfield>
+      <subfield code="w">Box 89</subfield>
+      <subfield code="e">89</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.90</subfield>
+      <subfield code="a">90</subfield>
+      <subfield code="p">39002140833725</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833725</subfield>
+      <subfield code="w">Box 90</subfield>
+      <subfield code="e">90</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.91</subfield>
+      <subfield code="a">91</subfield>
+      <subfield code="p">39002140833733</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833733</subfield>
+      <subfield code="w">Box 91</subfield>
+      <subfield code="e">91</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.92</subfield>
+      <subfield code="a">92</subfield>
+      <subfield code="p">39002140833741</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833741</subfield>
+      <subfield code="w">Box 92</subfield>
+      <subfield code="e">92</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.112</subfield>
+      <subfield code="a">112</subfield>
+      <subfield code="p">39002140983496</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140983496</subfield>
+      <subfield code="w">Box 112</subfield>
+      <subfield code="e">112</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.56</subfield>
+      <subfield code="a">56</subfield>
+      <subfield code="p">39002140833394</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833394</subfield>
+      <subfield code="w">Box 56</subfield>
+      <subfield code="e">56</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.57</subfield>
+      <subfield code="a">57</subfield>
+      <subfield code="p">39002140833402</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833402</subfield>
+      <subfield code="w">Box 57</subfield>
+      <subfield code="e">57</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.58</subfield>
+      <subfield code="a">58</subfield>
+      <subfield code="p">39002140833410</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833410</subfield>
+      <subfield code="w">Box 58</subfield>
+      <subfield code="e">58</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.59</subfield>
+      <subfield code="a">59</subfield>
+      <subfield code="p">39002140833428</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833428</subfield>
+      <subfield code="w">Box 59</subfield>
+      <subfield code="e">59</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.60</subfield>
+      <subfield code="a">60</subfield>
+      <subfield code="p">39002140833436</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833436</subfield>
+      <subfield code="w">Box 60</subfield>
+      <subfield code="e">60</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.61</subfield>
+      <subfield code="a">61</subfield>
+      <subfield code="p">39002140833444</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833444</subfield>
+      <subfield code="w">Box 61</subfield>
+      <subfield code="e">61</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.62</subfield>
+      <subfield code="a">62</subfield>
+      <subfield code="p">39002140833451</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833451</subfield>
+      <subfield code="w">Box 62</subfield>
+      <subfield code="e">62</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.63</subfield>
+      <subfield code="a">63</subfield>
+      <subfield code="p">39002140833469</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833469</subfield>
+      <subfield code="w">Box 63</subfield>
+      <subfield code="e">63</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.64</subfield>
+      <subfield code="a">64</subfield>
+      <subfield code="p">39002140833477</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833477</subfield>
+      <subfield code="w">Box 64</subfield>
+      <subfield code="e">64</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.65</subfield>
+      <subfield code="a">65</subfield>
+      <subfield code="p">39002140833485</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833485</subfield>
+      <subfield code="w">Box 65</subfield>
+      <subfield code="e">65</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.66</subfield>
+      <subfield code="a">66</subfield>
+      <subfield code="p">39002140833493</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833493</subfield>
+      <subfield code="w">Box 66</subfield>
+      <subfield code="e">66</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.67</subfield>
+      <subfield code="a">67</subfield>
+      <subfield code="p">39002140833501</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833501</subfield>
+      <subfield code="w">Box 67</subfield>
+      <subfield code="e">67</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.68</subfield>
+      <subfield code="a">68</subfield>
+      <subfield code="p">39002140833519</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833519</subfield>
+      <subfield code="w">Box 68</subfield>
+      <subfield code="e">68</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.69</subfield>
+      <subfield code="a">69</subfield>
+      <subfield code="p">39002140833527</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833527</subfield>
+      <subfield code="w">Box 69</subfield>
+      <subfield code="e">69</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.70</subfield>
+      <subfield code="a">70</subfield>
+      <subfield code="p">39002140833535</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833535</subfield>
+      <subfield code="w">Box 70</subfield>
+      <subfield code="e">70</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.71</subfield>
+      <subfield code="a">71</subfield>
+      <subfield code="p">39002140833543</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833543</subfield>
+      <subfield code="w">Box 71</subfield>
+      <subfield code="e">71</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="863">
+      <subfield code="8">1.72</subfield>
+      <subfield code="a">72</subfield>
+      <subfield code="p">39002140833550</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="949">
+      <subfield code="a">CtY</subfield>
+      <subfield code="t">4</subfield>
+      <subfield code="j">YCAL MSS 776</subfield>
+      <subfield code="m">MIXED</subfield>
+      <subfield code="i">04</subfield>
+      <subfield code="s">LSF: Library Shelving Facility [LSF]</subfield>
+      <subfield code="p">39002140833550</subfield>
+      <subfield code="w">Box 72</subfield>
+      <subfield code="e">72</subfield>
+      <subfield code="x"></subfield>
+      <subfield code="y">N</subfield>
+      <subfield code="z"></subfield>
+    </datafield>
+  </record>
+</collection>
+
