@@ -1,3 +1,9 @@
+"""
+Provides the logic for transforming and organizing data extracted from XML files. 
+This includes determining whether a node in the XML is a terminal node, handling explicit and implicit folder numbering, and processing series and box selections. 
+This module is key in preparing the data for the final output, such as mail merge operations and label generation.
+"""
+
 import os
 import logging
 from lxml import etree as ET

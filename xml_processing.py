@@ -1,3 +1,10 @@
+
+"""
+This module contains functions for processing XML EAD files. 
+It includes functionality to check if files are valid EADs, sanitize XML files to remove invalid characters, process collections of EAD files, and handle user selection of collections for processing. 
+The module is crucial for ensuring the integrity and usability of XML data before further processing.
+"""
+
 # xml_processing.py
 
 import glob
@@ -6,7 +13,7 @@ from lxml import etree as ET
 import logging
 
 from utils import move_recent_ead_files
-from data_processing import is_terminal_node
+from data_processing import is_terminal_node  
 from user_interaction import user_select_collection
 
 def is_ead_file(file_path):

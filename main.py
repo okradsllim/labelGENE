@@ -1,3 +1,9 @@
+"""
+This is the main driver script for the label generation application, labelGENE. 
+It integrates the functionalities of other modules to process Extensible Markup Language (XML) Encoded Archival Description (EAD) files, interact with the user for input, and generate labels for archival boxes and folders. 
+It sets up the working directory, initializes data processing, and manages the workflow from XML processing to mail merging.
+"""
+
 import logging
 import os
 import sys

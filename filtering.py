@@ -1,3 +1,9 @@
+"""
+Contains functions to filter data based on user-defined criteria. 
+It is used to narrow down the dataset to relevant subsets, which is essential for the generation of accurate and specific labels. 
+Filtering is performed on various attributes like box values and criteria columns.
+"""
+
 # filtering.py
 
 import logging

@@ -1,3 +1,9 @@
+"""
+Handles all direct user interactions for the labelGENE application. 
+It collects user input, displays options, and ensures the user's choices are correctly interpreted and processed. 
+This module is the interface between the application logic and the user, facilitating a smooth and effective user experience.
+"""
+
 # user_interaction.py
 
 import sys
