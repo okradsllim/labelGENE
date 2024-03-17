@@ -1,11 +1,12 @@
-
-"""
-This module contains functions for processing XML EAD files. 
-It includes functionality to check if files are valid EADs, sanitize XML files to remove invalid characters, process collections of EAD files, and handle user selection of collections for processing. 
-The module is crucial for ensuring the integrity and usability of XML data before further processing.
-"""
-
 # xml_processing.py
+
+"""
+Module for processing XML files.
+
+This module contains functions for identifying EAD files, preprocessing and sanitizing XML,
+and extracting relevant metadata from the parsed XML files. It provides functionality for
+handling character encoding issues, parsing XML, and extracting collection-level information.
+"""
 
 import glob
 import os

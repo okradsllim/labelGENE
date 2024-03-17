@@ -1,10 +1,12 @@
-"""
-Module for extracting data from XML EAD files. 
-Functions in this module navigate the XML tree to extract specific data like box numbers, folder dates, and folder titles. 
-It also includes logic to extract hierarchical data from ancestor nodes in the XML structure, which is essential for understanding the contextual metadata of archival materials.
-"""
-
 # data_extraction.py
+
+"""
+Module for extracting data from EAD elements.
+
+This module contains functions for extracting specific data elements from EAD XML, such as box numbers,
+folder dates, base folder titles, and ancestor data. These functions are used to retrieve relevant
+metadata from the parsed XML files.
+"""
 
 import re
 from lxml import etree as ET

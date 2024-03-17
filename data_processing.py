@@ -1,9 +1,12 @@
-"""
-Provides the logic for transforming and organizing data extracted from XML files. 
-This includes determining whether a node in the XML is a terminal node, handling explicit and implicit folder numbering, and processing series and box selections. 
-This module is key in preparing the data for the final output, such as mail merge operations and label generation.
-"""
+# data_processing.py
 
+"""
+Module for processing data extracted from EAD files.
+
+This module provides functions for manipulating and transforming the data extracted from EAD XML files.
+It includes functionality for determining terminal nodes, extracting folder numbering information,
+populating data frames, and handling series and box selection processes.
+"""
 import os
 import logging
 from lxml import etree as ET

@@ -1,7 +1,11 @@
+# mail_merge.py
+
 """
-Responsible for the mail merge operation, which generates labels by merging data into Word document templates. 
-It utilizes the `win32com` library to interact with Microsoft Word, automating the creation of labels for folders and boxes. 
-This module is a crucial step in transforming data into tangible, usable labels.
+Module for generating output files using mail merge.
+
+This module provides functions for performing mail merge operations to generate box and folder label files.
+It interacts with Microsoft Word using the win32com library to populate predefined templates with the
+extracted and processed data, creating the final output files.
 """
 
 # mail_merge.py

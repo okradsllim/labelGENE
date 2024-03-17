@@ -1,10 +1,12 @@
-"""
-Contains functions to filter data based on user-defined criteria. 
-It is used to narrow down the dataset to relevant subsets, which is essential for the generation of accurate and specific labels. 
-Filtering is performed on various attributes like box values and criteria columns.
-"""
-
 # filtering.py
+
+"""
+Module for filtering and managing data frames.
+
+This module contains functions for filtering and manipulating data frames based on selected criteria,
+such as series or box numbers. It provides functionality for extracting relevant subsets of data
+and managing the organization of the processed data.
+"""
 
 import logging
 

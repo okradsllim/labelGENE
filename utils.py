@@ -1,10 +1,13 @@
+# utils.py
+
 """
-This module is a collection of utility functions that provide additional functionality used throughout the labelGENE application. 
-These include sorting functions, file operations, and data manipulation helpers. 
-The utilities in this module support the main application by offering common services, such as custom sorting and file handling.
+Module containing utility functions.
+
+This module includes various utility functions used throughout the script, such as sorting functions,
+file management operations, and data transformation helpers. These functions provide reusable functionality
+to support the main processes of the script.
 """
 
-# utils.py
 import os
 import shutil
 from datetime import datetime, timedelta
